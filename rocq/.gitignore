@@ -1,0 +1,10 @@
+*.vo
+*.vos
+*.vok
+*.vio
+*.glob
+.*.aux
+.coq-native/
+.*.cache
+*.log
+.coqdeps
